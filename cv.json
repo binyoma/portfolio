@@ -4,11 +4,12 @@
     "label": "Junior Full Stack Developer",
     "image": "/portfolio/me.jpg",
     "email": "binyoma@pm.me",
-    "url": "https://johndoe.dev",
+    "phone": " ",
+    "url": "https://binyoma.github.io",
     "summary": "Après une formation initiale en Finance et Economie, je me suis reconverti en Concepteur Développeur d'Applications. Je cherche de nouvelles opportinités.",
     "theme": "blue",
     "location": {
-      "address": "",
+      "address": " ",
       "postalCode": "80000",
       "city": "Amiens",
       "countryCode": "FR",
@@ -47,6 +48,7 @@
         "Decant.",
         "Stow."
       ]
+     
     },
     {
       "name": "Ambassade d'Australie en France",
